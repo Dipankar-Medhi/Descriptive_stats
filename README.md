@@ -1,4 +1,4 @@
-# Descriptive stattistics
+# Descriptive statistics
 A detailed explaination and execution of different descriptive statistic concepts uisng python.
 
 ## What is Descriptive Statistics?
